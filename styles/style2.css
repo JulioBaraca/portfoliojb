@@ -1,0 +1,22 @@
+/*Cores*/
+:root {
+    --preto: #000000;
+    --branco: #ffffff;
+    --laranja: #ffa500;
+}
+
+/*Corpo do Site*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+} html {
+    scroll-behavior: smooth;
+    scrollbar-color: var(--laranja);
+}
+.max-width{
+    max-width: 1500px;
+    padding: 0 80px;
+    margin: auto;
+}
