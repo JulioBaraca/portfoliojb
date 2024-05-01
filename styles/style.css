@@ -251,7 +251,7 @@ section .title::after{
     content: "Formações";
 }
 
-table {
+table, table-2 {
     width: 100%;
     border-collapse: collapse;
     text-align: center;
